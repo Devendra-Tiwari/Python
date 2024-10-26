@@ -13,7 +13,7 @@ elif int(timestamp) >= 120000 and int(timestamp) <= 170000:
     print("Good Afternoon")
 
 elif int(timestamp) >= 170001 and int(timestamp) <= 210000:    
-    print("Good Night")
+    print("Good Evening")
 
 else:
     print("Good Night")    
